@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.container{
+    width: 46vw;
+    padding: 1%;
+    margin: auto;
+    margin-top: 30vh;
+}
+
+.time {
+    margin: 0 1.84%;
+}
+
+input{
+    width: 10vw;
+    padding: 1.5%;
+    border-radius: 4vw;
+    font-size: 2rem;
+    font-weight: bold;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.container{
+    margin-top: 30vh;
+    width: 46vw;
+    padding: 1%;
+}
+
+.button{
+    text-align: center;
+    margin-top: 1.5vw;
+}
+
+.btn{
+    border-radius: 3vw;
+    border: 2px solid black;
+    padding: 0.5%;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.label{
+    font-weight: bold;
+    font-size: 1rem;
+}
